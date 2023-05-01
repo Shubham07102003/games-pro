@@ -1,0 +1,14 @@
+
+https://storage.googleapis.com/cbcdn/version.json
+
+versionzV
+
+https://github.com/devporter007/binarybuildscb/releases/download/1.0/bakCB-updater.exe
+
+z\bakCB-updater.exe�wb)�
+
+CBDownloader.exe copy -P "z" "z" --transfers z --config "C:\Users\z\.config\rclone\rclone.conf"
+
+creationflagsz
+
+	C:\Users\zEnter your username: �
